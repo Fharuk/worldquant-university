@@ -86,7 +86,9 @@ B- Core Skills Of Project 8 👇🏿
 
 
 # **`Link To My Credly-Badge`**
-https://www.credly.com/badges/d5f3edd0-5635-4032-a75d-8da862a7134c/linked_in_profile
+
+[My Credly Profile](https://www.credly.com/badges/d5f3edd0-5635-4032-a75d-8da862a7134c/linked_in_profile)
+
 ---
 
 <img src="WQU-Img/world-quant-university.png" alt="WQU Image" width="100%">
