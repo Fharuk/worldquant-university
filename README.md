@@ -14,6 +14,7 @@ graph TD;
    ```
    
    
+   
 <img src="WQU-Img/credly-card.jpg" alt="WQU Image" width="100%">
 
 
