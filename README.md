@@ -14,10 +14,7 @@ graph TD;
    ```
    
    
-   
-<img src="WQU-Img/credly-card.jpg" alt="WQU Image" width="100%">
-
-
+  
 # **`Project 1. HOUSING IN MEXICO`**
 
 A- A Brief About What You'll Do In Project 1 👇🏿
