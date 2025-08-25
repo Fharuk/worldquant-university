@@ -87,7 +87,7 @@ B- Core Skills Of Project 8 👇🏿
 
 # **`Link To My Credly-Badge`**
 
-[My Credly Profile](https://www.credly.com/badges/d5f3edd0-5635-4032-a75d-8da862a7134c/linked_in_profile)
+[My Credly Profile](https://www.credly.com/badges/7a905b0d-b71c-4f6c-a8e2-458983bd0257/public_url)
 
 ---
 
